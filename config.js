@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://proton.me/calendar',
 		},
 		{
 			id: '5',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://youtube.com.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
